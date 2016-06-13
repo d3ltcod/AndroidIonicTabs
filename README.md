@@ -1,5 +1,7 @@
 This is an addon starter template based  on Android Tabs for the [Ionic Framework](http://ionicframework.com/).
 
+![Android gif](img/androidTabs.gif)
+
 ## How to use this template
 
 *This template does not work on its own*. It is missing the Ionic library, and AngularJS.
