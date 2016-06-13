@@ -1,0 +1,17 @@
+.title{
+  font-weight: bold !important;
+}
+
+#tab-bar>div{
+  background-color: #33cd5f;
+}
+
+#tab-bar>div>.tab-item-active{
+  color: #fff !important;
+  border-bottom: solid 3px;
+}
+
+#tab-bar>div>.tab-item{
+  text-transform: uppercase;
+  font-weight: bold;
+}
