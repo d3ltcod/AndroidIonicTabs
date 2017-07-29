@@ -10,8 +10,9 @@ To use this, either create a new ionic project using the ionic node.js utility, 
 
 ### Start Project:
 ```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myApp https://github.com/deltcod/AndroidIonicTabs
+$ npm install -g ionic cordova
+$ git clone https://github.com/deltcod/AndroidIonicTabs.git
+cd AndroidIonicTabs
 ```
 
 Then, to run it, cd into `myApp` and run:
