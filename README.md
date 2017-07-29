@@ -1,4 +1,4 @@
-This is an addon starter template based  on Android Tabs for the [Ionic Framework](http://ionicframework.com/).
+This is an addon starter template based  on Android Tabs for the [Ionic Framework](http://ionicframework.com/) v1.
 
 ![Android gif](img/androidTabs.gif)
 
@@ -12,7 +12,7 @@ To use this, either create a new ionic project using the ionic node.js utility, 
 ```bash
 $ npm install -g ionic cordova
 $ git clone https://github.com/deltcod/AndroidIonicTabs.git
-cd AndroidIonicTabs
+$ cd AndroidIonicTabs/
 ```
 
 Then, to run it, cd into `myApp` and run:
