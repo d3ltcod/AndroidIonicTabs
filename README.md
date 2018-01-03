@@ -11,7 +11,7 @@ To use this, either create a new ionic project using the ionic node.js utility, 
 ### Start Project:
 ```bash
 $ npm install -g ionic cordova
-$ git clone https://github.com/deltcod/AndroidIonicTabs.git
+$ git clone https://github.com/d3ltcod/AndroidIonicTabs.git
 $ cd AndroidIonicTabs/
 ```
 
